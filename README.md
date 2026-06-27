@@ -212,4 +212,3 @@ Two personas:
 
 ---
 
-*v2 — FAANG-portfolio-ready upgrade*
