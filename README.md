@@ -1,20 +1,5 @@
 # 💧 Water Tracker
 
-An AI-powered hydration tracking application upgraded for FAANG-level portfolio quality.
-
-## 🆕 What's new in v2
-
-| Feature | v1 | v2 |
-|---------|----|----|
-| **Storage** | JSON file | PostgreSQL + SQLite fallback (SQLAlchemy ORM) |
-| **ML** | None | GBM intake predictor + RF goal classifier + reminder scorer |
-| **Observability** | Print statements | Prometheus metrics + structlog JSON traces + X-Trace-ID headers |
-| **Testing** | 5 basic tests | 30+ tests across features, CRUD, ML, API integration |
-| **Load testing** | None | Locust with 2 user personas (regular + ML power user) |
-| **Deployment** | Manual script | Docker Compose (API + DB + Prometheus + Grafana + Frontend) |
-| **AI Coach** | Basic LangChain | ML-enriched context (prediction + trend + goal probability) |
-| **Smart reminders** | Fixed interval | ML urgency scoring — suppresses reminders when on track |
-
 ---
 
 ## 🏗️ Project Structure
