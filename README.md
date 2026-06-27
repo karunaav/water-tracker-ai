@@ -18,6 +18,8 @@ An AI-powered hydration tracking application upgraded for FAANG-level portfolio 
 ---
 
 ## 🏗️ Project Structure
+<img width="1907" height="942" alt="Screenshot 2026-06-27 181141" src="https://github.com/user-attachments/assets/fad367c2-ec0c-4733-bf27-5ec7004acd8a" />
+
 
 ```
 water-tracker-ai/
@@ -62,6 +64,8 @@ water-tracker-ai/
 ---
 
 ## 🚀 Quick Start
+<img width="1911" height="947" alt="Screenshot 2026-06-27 181202" src="https://github.com/user-attachments/assets/6b5c4010-6b50-4111-85e3-8d2ab40dd375" />
+
 
 ### Local dev (SQLite, no Docker needed)
 
@@ -81,6 +85,7 @@ cd frontend && streamlit run app.py
 ```
 
 ### Full stack with Docker + PostgreSQL + Prometheus + Grafana
+<img width="1913" height="952" alt="Screenshot 2026-06-27 181229" src="https://github.com/user-attachments/assets/9a5b698c-1ec3-47b6-a7d9-fd496d61fdfa" />
 
 ```bash
 docker-compose up --build
@@ -94,8 +99,10 @@ docker-compose up --build
 | Grafana | http://localhost:3000 (admin/admin) |
 
 ---
+<img width="1915" height="955" alt="Screenshot 2026-06-27 181241" src="https://github.com/user-attachments/assets/c1be8547-cf66-431d-9368-b3fb42cfc94e" />
 
 ## 🤖 ML Models
+<img width="1908" height="936" alt="Screenshot 2026-06-27 181252" src="https://github.com/user-attachments/assets/f57463fb-a2b1-4569-a47b-a4b02be16d46" />
 
 Three scikit-learn pipelines with StandardScaler preprocessing:
 
@@ -121,6 +128,7 @@ All models persist to `data/models/` via joblib and retrain via `POST /ml/retrai
 ---
 
 ## 📡 Observability
+<img width="1911" height="943" alt="Screenshot 2026-06-27 181304" src="https://github.com/user-attachments/assets/4994fcb9-cb9b-46fe-95cb-940e834474d8" />
 
 ### Prometheus metrics
 ```
@@ -172,6 +180,8 @@ Two personas:
 - **MLPowerUser** — hit prediction endpoints under load (weight=1)
 
 ---
+<img width="1915" height="970" alt="Screenshot 2026-06-27 181312" src="https://github.com/user-attachments/assets/b8a7ace4-fefc-476a-9ab1-45f4cfddb65c" />
+
 
 ## 🔌 API Reference
 
