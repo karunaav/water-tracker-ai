@@ -1,4 +1,4 @@
-# 💧 Water Tracker AI — v2
+# 💧 Water Tracker
 
 An AI-powered hydration tracking application upgraded for FAANG-level portfolio quality.
 
