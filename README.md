@@ -1,7 +1,5 @@
 # 💧 Water Tracker
 
----
-
 ## 🏗️ Project Structure
 <img width="1907" height="942" alt="Screenshot 2026-06-27 181141" src="https://github.com/user-attachments/assets/fad367c2-ec0c-4733-bf27-5ec7004acd8a" />
 
