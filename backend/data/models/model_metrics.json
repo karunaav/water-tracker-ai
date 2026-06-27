@@ -1,0 +1,19 @@
+{
+  "model_version": "v1.2",
+  "trained_at": "2026-06-27T21:40:28.078664",
+  "intake_predictor": {
+    "cv_mae_mean": 563.7,
+    "cv_mae_std": 153.3,
+    "training_samples": 2670
+  },
+  "goal_classifier": {
+    "cv_auc_mean": 0.7759,
+    "cv_auc_std": 0.0886,
+    "training_samples": 2670
+  },
+  "reminder_scorer": {
+    "cv_auc_mean": 0.9992,
+    "cv_auc_std": 0.0005,
+    "training_samples": 3000
+  }
+}

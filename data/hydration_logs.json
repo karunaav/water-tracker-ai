@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sample-001",
+    "amount_ml": 250,
+    "note": "Morning glass",
+    "timestamp": "2026-06-27T08:00:00",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "sample-002",
+    "amount_ml": 500,
+    "note": "Post-workout",
+    "timestamp": "2026-06-27T10:30:00",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "sample-003",
+    "amount_ml": 350,
+    "note": "With lunch",
+    "timestamp": "2026-06-27T13:00:00",
+    "date": "2026-06-27"
+  }
+]
